@@ -1,79 +1,42 @@
 {
-  "spriteId": {
-    "name": "spr_sand_temple",
-    "path": "sprites/spr_sand_temple/spr_sand_temple.yy"
+  "$GMObject":"",
+  "%Name":"obj_sand_temple",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_cave_entrance","path":"objects/obj_cave_entrance/obj_cave_entrance.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":false,
+  "name":"obj_sand_temple",
+  "overriddenProperties":[],
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
-  "solid": false,
-  "visible": true,
-  "managed": false,
-  "spriteMaskId": null,
-  "persistent": false,
-  "parentObjectId": null,
-  "physicsObject": false,
-  "physicsSensor": false,
-  "physicsShape": 1,
-  "physicsGroup": 1,
-  "physicsDensity": 0.5,
-  "physicsRestitution": 0.1,
-  "physicsLinearDamping": 0.1,
-  "physicsAngularDamping": 0.1,
-  "physicsFriction": 0.2,
-  "physicsStartAwake": true,
-  "physicsKinematic": false,
-  "physicsShapePoints": [],
-  "eventList": [
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 0,
-      "collisionObjectId": null,
-      "resourceType": "GMEvent",
-      "resourceVersion": "1.0",
-      "name": ""
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 3,
-      "collisionObjectId": null,
-      "resourceType": "GMEvent",
-      "resourceVersion": "1.0",
-      "name": ""
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 4,
-      "collisionObjectId": {
-        "name": "obj_cave_entrance",
-        "path": "objects/obj_cave_entrance/obj_cave_entrance.yy"
-      },
-      "resourceType": "GMEvent",
-      "resourceVersion": "1.0",
-      "name": ""
-    }
+  "parentObjectId":null,
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"target_room","filters":[],"listItems":[],"multiselect":false,"name":"target_room","rangeEnabled":false,"rangeMax":0.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"14","varType":1,},
   ],
-  "properties": [
-    {
-      "varType": 1,
-      "value": "14",
-      "rangeEnabled": false,
-      "rangeMin": 0,
-      "rangeMax": 0,
-      "listItems": [],
-      "multiselect": false,
-      "filters": [],
-      "resourceType": "GMObjectProperty",
-      "resourceVersion": "1.0",
-      "name": "target_room"
-    }
-  ],
-  "overriddenProperties": [],
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_sand_temple",
-  "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
-  }
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":{
+    "name":"spr_sand_temple",
+    "path":"sprites/spr_sand_temple/spr_sand_temple.yy",
+  },
+  "spriteMaskId":null,
+  "visible":true,
 }

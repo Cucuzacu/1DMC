@@ -1,23 +1,26 @@
 {
-  "conversionMode": 0,
-  "compression": 0,
-  "volume": 1,
-  "preload": true,
-  "bitRate": 128,
-  "sampleRate": 44100,
-  "type": 0,
-  "bitDepth": 1,
-  "audioGroupId": {
-    "name": "audiogroup_default",
-    "path": "audiogroups/audiogroup_default"
+  "$GMSound":"v2",
+  "%Name":"snd_leaves_broken",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_leaves_broken.wav",
-  "duration": 0.361882,
-  "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy"
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.361882,
+  "exportDir":"",
+  "name":"snd_leaves_broken",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
-  "resourceType": "GMSound",
-  "resourceVersion": "1.0",
-  "name": "snd_leaves_broken"
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_leaves_broken.wav",
+  "volume":1.0,
 }

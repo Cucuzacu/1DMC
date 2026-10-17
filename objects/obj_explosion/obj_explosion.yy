@@ -1,77 +1,41 @@
 {
-  "spriteId": {
-    "name": "spr_explosion",
-    "path": "sprites/spr_explosion/spr_explosion.yy"
-  },
-  "solid": false,
-  "visible": true,
-  "managed": false,
-  "spriteMaskId": null,
-  "persistent": false,
-  "parentObjectId": null,
-  "physicsObject": false,
-  "physicsSensor": false,
-  "physicsShape": 1,
-  "physicsGroup": 1,
-  "physicsDensity": 0.5,
-  "physicsRestitution": 0.1,
-  "physicsLinearDamping": 0.1,
-  "physicsAngularDamping": 0.1,
-  "physicsFriction": 0.2,
-  "physicsStartAwake": true,
-  "physicsKinematic": false,
-  "physicsShapePoints": [],
-  "eventList": [
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 0,
-      "collisionObjectId": null,
-      "resourceType": "GMEvent",
-      "resourceVersion": "1.0",
-      "name": ""
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 4,
-      "collisionObjectId": {
-        "name": "obj_player",
-        "path": "objects/obj_player/obj_player.yy"
-      },
-      "resourceType": "GMEvent",
-      "resourceVersion": "1.0",
-      "name": ""
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 4,
-      "collisionObjectId": {
-        "name": "obj_block",
-        "path": "objects/obj_block/obj_block.yy"
-      },
-      "resourceType": "GMEvent",
-      "resourceVersion": "1.0",
-      "name": ""
-    },
-    {
-      "isDnD": false,
-      "eventNum": 7,
-      "eventType": 7,
-      "collisionObjectId": null,
-      "resourceType": "GMEvent",
-      "resourceVersion": "1.0",
-      "name": ""
-    }
+  "$GMObject":"",
+  "%Name":"obj_explosion",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
-  "properties": [],
-  "overriddenProperties": [],
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_explosion",
-  "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
-  }
+  "managed":false,
+  "name":"obj_explosion",
+  "overriddenProperties":[],
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Objects.yy",
+  },
+  "parentObjectId":null,
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":{
+    "name":"spr_explosion",
+    "path":"sprites/spr_explosion/spr_explosion.yy",
+  },
+  "spriteMaskId":null,
+  "visible":true,
 }

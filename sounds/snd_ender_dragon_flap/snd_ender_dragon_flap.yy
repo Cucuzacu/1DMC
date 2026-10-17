@@ -1,23 +1,26 @@
 {
-  "conversionMode": 0,
-  "compression": 0,
-  "volume": 1,
-  "preload": true,
-  "bitRate": 128,
-  "sampleRate": 44100,
-  "type": 0,
-  "bitDepth": 1,
-  "audioGroupId": {
-    "name": "audiogroup_default",
-    "path": "audiogroups/audiogroup_default"
+  "$GMSound":"v2",
+  "%Name":"snd_ender_dragon_flap",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_ender_dragon_flap.wav",
-  "duration": 0.7439229,
-  "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy"
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.7439229,
+  "exportDir":"",
+  "name":"snd_ender_dragon_flap",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
-  "resourceType": "GMSound",
-  "resourceVersion": "1.0",
-  "name": "snd_ender_dragon_flap"
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_ender_dragon_flap.wav",
+  "volume":1.0,
 }

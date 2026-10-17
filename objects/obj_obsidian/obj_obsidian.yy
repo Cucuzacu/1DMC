@@ -1,88 +1,46 @@
 {
-  "spriteId": {
-    "name": "spr_obsidian",
-    "path": "sprites/spr_obsidian/spr_obsidian.yy"
+  "$GMObject":"",
+  "%Name":"obj_obsidian",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":false,
+  "name":"obj_obsidian",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"propertyId":{"name":"item_index","path":"objects/obj_block/obj_block.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"-1",},
+  ],
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
-  "solid": false,
-  "visible": true,
-  "managed": false,
-  "spriteMaskId": null,
-  "persistent": false,
-  "parentObjectId": {
-    "name": "obj_block",
-    "path": "objects/obj_block/obj_block.yy"
+  "parentObjectId":{
+    "name":"obj_block",
+    "path":"objects/obj_block/obj_block.yy",
   },
-  "physicsObject": false,
-  "physicsSensor": false,
-  "physicsShape": 1,
-  "physicsGroup": 1,
-  "physicsDensity": 0.5,
-  "physicsRestitution": 0.1,
-  "physicsLinearDamping": 0.1,
-  "physicsAngularDamping": 0.1,
-  "physicsFriction": 0.2,
-  "physicsStartAwake": true,
-  "physicsKinematic": false,
-  "physicsShapePoints": [],
-  "eventList": [
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 1,
-      "collisionObjectId": null,
-      "resourceType": "GMEvent",
-      "resourceVersion": "1.0",
-      "name": ""
-    }
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"hp","filters":[],"listItems":[],"multiselect":false,"name":"hp","rangeEnabled":false,"rangeMax":0.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"45","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"item_drop","filters":[],"listItems":[],"multiselect":false,"name":"item_drop","rangeEnabled":false,"rangeMax":0.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"-1","varType":4,},
   ],
-  "properties": [
-    {
-      "varType": 1,
-      "value": "45",
-      "rangeEnabled": false,
-      "rangeMin": 0,
-      "rangeMax": 0,
-      "listItems": [],
-      "multiselect": false,
-      "filters": [],
-      "resourceType": "GMObjectProperty",
-      "resourceVersion": "1.0",
-      "name": "hp"
-    },
-    {
-      "varType": 4,
-      "value": "-1",
-      "rangeEnabled": false,
-      "rangeMin": 0,
-      "rangeMax": 0,
-      "listItems": [],
-      "multiselect": false,
-      "filters": [],
-      "resourceType": "GMObjectProperty",
-      "resourceVersion": "1.0",
-      "name": "item_drop"
-    }
-  ],
-  "overriddenProperties": [
-    {
-      "propertyId": {
-        "name": "item_index",
-        "path": "objects/obj_block/obj_block.yy"
-      },
-      "objectId": {
-        "name": "obj_block",
-        "path": "objects/obj_block/obj_block.yy"
-      },
-      "value": "-1",
-      "resourceType": "GMOverriddenProperty",
-      "resourceVersion": "1.0"
-    }
-  ],
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_obsidian",
-  "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
-  }
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":{
+    "name":"spr_obsidian",
+    "path":"sprites/spr_obsidian/spr_obsidian.yy",
+  },
+  "spriteMaskId":null,
+  "visible":true,
 }

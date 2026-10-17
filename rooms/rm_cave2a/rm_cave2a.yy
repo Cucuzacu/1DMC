@@ -1,384 +1,69 @@
 {
-  "isDnd": false,
-  "volume": 1,
-  "parentRoom": null,
-  "views": [
-    {
-      "inherit": false,
-      "visible": true,
-      "xview": 0,
-      "yview": 0,
-      "wview": 1366,
-      "hview": 768,
-      "xport": 0,
-      "yport": 0,
-      "wport": 1366,
-      "hport": 768,
-      "hborder": 32,
-      "vborder": 32,
-      "hspeed": -1,
-      "vspeed": -1,
-      "objectId": null
-    },
-    {
-      "inherit": false,
-      "visible": false,
-      "xview": 0,
-      "yview": 0,
-      "wview": 1366,
-      "hview": 768,
-      "xport": 0,
-      "yport": 0,
-      "wport": 1366,
-      "hport": 768,
-      "hborder": 32,
-      "vborder": 32,
-      "hspeed": -1,
-      "vspeed": -1,
-      "objectId": null
-    },
-    {
-      "inherit": false,
-      "visible": false,
-      "xview": 0,
-      "yview": 0,
-      "wview": 1366,
-      "hview": 768,
-      "xport": 0,
-      "yport": 0,
-      "wport": 1366,
-      "hport": 768,
-      "hborder": 32,
-      "vborder": 32,
-      "hspeed": -1,
-      "vspeed": -1,
-      "objectId": null
-    },
-    {
-      "inherit": false,
-      "visible": false,
-      "xview": 0,
-      "yview": 0,
-      "wview": 1366,
-      "hview": 768,
-      "xport": 0,
-      "yport": 0,
-      "wport": 1366,
-      "hport": 768,
-      "hborder": 32,
-      "vborder": 32,
-      "hspeed": -1,
-      "vspeed": -1,
-      "objectId": null
-    },
-    {
-      "inherit": false,
-      "visible": false,
-      "xview": 0,
-      "yview": 0,
-      "wview": 1366,
-      "hview": 768,
-      "xport": 0,
-      "yport": 0,
-      "wport": 1366,
-      "hport": 768,
-      "hborder": 32,
-      "vborder": 32,
-      "hspeed": -1,
-      "vspeed": -1,
-      "objectId": null
-    },
-    {
-      "inherit": false,
-      "visible": false,
-      "xview": 0,
-      "yview": 0,
-      "wview": 1366,
-      "hview": 768,
-      "xport": 0,
-      "yport": 0,
-      "wport": 1366,
-      "hport": 768,
-      "hborder": 32,
-      "vborder": 32,
-      "hspeed": -1,
-      "vspeed": -1,
-      "objectId": null
-    },
-    {
-      "inherit": false,
-      "visible": false,
-      "xview": 0,
-      "yview": 0,
-      "wview": 1366,
-      "hview": 768,
-      "xport": 0,
-      "yport": 0,
-      "wport": 1366,
-      "hport": 768,
-      "hborder": 32,
-      "vborder": 32,
-      "hspeed": -1,
-      "vspeed": -1,
-      "objectId": null
-    },
-    {
-      "inherit": false,
-      "visible": false,
-      "xview": 0,
-      "yview": 0,
-      "wview": 1366,
-      "hview": 768,
-      "xport": 0,
-      "yport": 0,
-      "wport": 1366,
-      "hport": 768,
-      "hborder": 32,
-      "vborder": 32,
-      "hspeed": -1,
-      "vspeed": -1,
-      "objectId": null
-    }
+  "$GMRoom":"v1",
+  "%Name":"rm_cave2a",
+  "creationCodeFile":"",
+  "inheritCode":false,
+  "inheritCreationOrder":false,
+  "inheritLayers":false,
+  "instanceCreationOrder":[
+    {"name":"inst_100047","path":"rooms/rm_cave2a/rm_cave2a.yy",},
+    {"name":"inst_100048","path":"rooms/rm_cave2a/rm_cave2a.yy",},
+    {"name":"inst_100049","path":"rooms/rm_cave2a/rm_cave2a.yy",},
+    {"name":"inst_100050","path":"rooms/rm_cave2a/rm_cave2a.yy",},
   ],
-  "layers": [
-    {
-      "instances": [
-        {
-          "properties": [
-            {
-              "propertyId": {
-                "name": "target_room",
-                "path": "objects/obj_cave_down/obj_cave_down.yy"
-              },
-              "objectId": {
-                "name": "obj_cave_down",
-                "path": "objects/obj_cave_down/obj_cave_down.yy"
-              },
-              "value": "11",
-              "resourceType": "GMOverriddenProperty",
-              "resourceVersion": "1.0"
-            }
-          ],
-          "isDnd": false,
-          "objectId": {
-            "name": "obj_cave_down",
-            "path": "objects/obj_cave_down/obj_cave_down.yy"
-          },
-          "inheritCode": false,
-          "hasCreationCode": false,
-          "colour": 4294967295,
-          "rotation": 0,
-          "scaleX": 1,
-          "scaleY": 1,
-          "imageSpeed": 1,
-          "imageIndex": 0,
-          "inheritedItemId": null,
-          "frozen": false,
-          "ignore": false,
-          "inheritItemSettings": false,
-          "x": 128,
-          "y": 0,
-          "resourceType": "GMRInstance",
-          "resourceVersion": "1.0",
-          "name": "inst_100047"
-        },
-        {
-          "properties": [
-            {
-              "propertyId": {
-                "name": "target_room",
-                "path": "objects/obj_cave_up/obj_cave_up.yy"
-              },
-              "objectId": {
-                "name": "obj_cave_up",
-                "path": "objects/obj_cave_up/obj_cave_up.yy"
-              },
-              "value": "15",
-              "resourceType": "GMOverriddenProperty",
-              "resourceVersion": "1.0"
-            }
-          ],
-          "isDnd": false,
-          "objectId": {
-            "name": "obj_cave_up",
-            "path": "objects/obj_cave_up/obj_cave_up.yy"
-          },
-          "inheritCode": false,
-          "hasCreationCode": false,
-          "colour": 4294967295,
-          "rotation": 0,
-          "scaleX": 1,
-          "scaleY": 1,
-          "imageSpeed": 1,
-          "imageIndex": 0,
-          "inheritedItemId": null,
-          "frozen": false,
-          "ignore": false,
-          "inheritItemSettings": false,
-          "x": 128,
-          "y": 0,
-          "resourceType": "GMRInstance",
-          "resourceVersion": "1.0",
-          "name": "inst_100048"
-        },
-        {
-          "properties": [
-            {
-              "propertyId": {
-                "name": "is_iron",
-                "path": "objects/obj_cave_generator/obj_cave_generator.yy"
-              },
-              "objectId": {
-                "name": "obj_cave_generator",
-                "path": "objects/obj_cave_generator/obj_cave_generator.yy"
-              },
-              "value": "1",
-              "resourceType": "GMOverriddenProperty",
-              "resourceVersion": "1.0"
-            }
-          ],
-          "isDnd": false,
-          "objectId": {
-            "name": "obj_cave_generator",
-            "path": "objects/obj_cave_generator/obj_cave_generator.yy"
-          },
-          "inheritCode": false,
-          "hasCreationCode": false,
-          "colour": 4294967295,
-          "rotation": 0,
-          "scaleX": 1,
-          "scaleY": 1,
-          "imageSpeed": 1,
-          "imageIndex": 0,
-          "inheritedItemId": null,
-          "frozen": false,
-          "ignore": false,
-          "inheritItemSettings": false,
-          "x": 0,
-          "y": 0,
-          "resourceType": "GMRInstance",
-          "resourceVersion": "1.0",
-          "name": "inst_100049"
-        },
-        {
-          "properties": [],
-          "isDnd": false,
-          "objectId": {
-            "name": "obj_cave_enemy_generator",
-            "path": "objects/obj_cave_enemy_generator/obj_cave_enemy_generator.yy"
-          },
-          "inheritCode": false,
-          "hasCreationCode": false,
-          "colour": 4294967295,
-          "rotation": 0,
-          "scaleX": 1,
-          "scaleY": 1,
-          "imageSpeed": 1,
-          "imageIndex": 0,
-          "inheritedItemId": null,
-          "frozen": false,
-          "ignore": false,
-          "inheritItemSettings": false,
-          "x": 32,
-          "y": 0,
-          "resourceType": "GMRInstance",
-          "resourceVersion": "1.0",
-          "name": "inst_100050"
-        }
-      ],
-      "visible": true,
-      "depth": 0,
-      "userdefinedDepth": true,
-      "inheritLayerDepth": false,
-      "inheritLayerSettings": false,
-      "gridX": 16,
-      "gridY": 16,
-      "layers": [],
-      "hierarchyFrozen": false,
-      "effectEnabled": false,
-      "effectType": null,
-      "properties": [],
-      "resourceType": "GMRInstanceLayer",
-      "resourceVersion": "1.0",
-      "name": "Instances"
-    },
-    {
-      "spriteId": null,
-      "colour": 4279834905,
-      "x": 0,
-      "y": 0,
-      "htiled": false,
-      "vtiled": false,
-      "hspeed": 0,
-      "vspeed": 0,
-      "stretch": false,
-      "animationFPS": 15,
-      "animationSpeedType": 0,
-      "userdefinedAnimFPS": true,
-      "visible": true,
-      "depth": 100,
-      "userdefinedDepth": false,
-      "inheritLayerDepth": false,
-      "inheritLayerSettings": false,
-      "gridX": 16,
-      "gridY": 16,
-      "layers": [],
-      "hierarchyFrozen": false,
-      "effectEnabled": false,
-      "effectType": null,
-      "properties": [],
-      "resourceType": "GMRBackgroundLayer",
-      "resourceVersion": "1.0",
-      "name": "Background"
-    }
+  "isDnd":false,
+  "layers":[
+    {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":false,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v4","%Name":"inst_100047","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_100047","objectId":{"name":"obj_cave_down","path":"objects/obj_cave_down/obj_cave_down.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cave_down","path":"objects/obj_cave_down/obj_cave_down.yy",},"propertyId":{"name":"target_room","path":"objects/obj_cave_down/obj_cave_down.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"11",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":0.0,},
+        {"$GMRInstance":"v4","%Name":"inst_100048","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_100048","objectId":{"name":"obj_cave_up","path":"objects/obj_cave_up/obj_cave_up.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cave_up","path":"objects/obj_cave_up/obj_cave_up.yy",},"propertyId":{"name":"target_room","path":"objects/obj_cave_up/obj_cave_up.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"15",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":0.0,},
+        {"$GMRInstance":"v4","%Name":"inst_100049","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_100049","objectId":{"name":"obj_cave_generator","path":"objects/obj_cave_generator/obj_cave_generator.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_cave_generator","path":"objects/obj_cave_generator/obj_cave_generator.yy",},"propertyId":{"name":"is_iron","path":"objects/obj_cave_generator/obj_cave_generator.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+        {"$GMRInstance":"v4","%Name":"inst_100050","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_100050","objectId":{"name":"obj_cave_enemy_generator","path":"objects/obj_cave_enemy_generator/obj_cave_enemy_generator.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":0.0,},
+      ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":true,"visible":true,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4279834905,"depth":100,"effectEnabled":false,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":true,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "inheritLayers": false,
-  "creationCodeFile": "",
-  "inheritCode": false,
-  "instanceCreationOrder": [
-    {
-      "name": "inst_100047",
-      "path": "rooms/rm_cave2a/rm_cave2a.yy"
-    },
-    {
-      "name": "inst_100048",
-      "path": "rooms/rm_cave2a/rm_cave2a.yy"
-    },
-    {
-      "name": "inst_100049",
-      "path": "rooms/rm_cave2a/rm_cave2a.yy"
-    },
-    {
-      "name": "inst_100050",
-      "path": "rooms/rm_cave2a/rm_cave2a.yy"
-    }
+  "name":"rm_cave2a",
+  "parent":{
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
+  },
+  "parentRoom":null,
+  "physicsSettings":{
+    "inheritPhysicsSettings":false,
+    "PhysicsWorld":false,
+    "PhysicsWorldGravityX":0.0,
+    "PhysicsWorldGravityY":10.0,
+    "PhysicsWorldPixToMetres":0.1,
+  },
+  "resourceType":"GMRoom",
+  "resourceVersion":"2.0",
+  "roomSettings":{
+    "Height":1,
+    "inheritRoomSettings":false,
+    "persistent":true,
+    "Width":256,
+  },
+  "sequenceId":null,
+  "views":[
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":true,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
   ],
-  "inheritCreationOrder": false,
-  "sequenceId": null,
-  "roomSettings": {
-    "inheritRoomSettings": false,
-    "Width": 256,
-    "Height": 1,
-    "persistent": true
+  "viewSettings":{
+    "clearDisplayBuffer":false,
+    "clearViewBackground":false,
+    "enableViews":true,
+    "inheritViewSettings":false,
   },
-  "viewSettings": {
-    "inheritViewSettings": false,
-    "enableViews": true,
-    "clearViewBackground": false,
-    "clearDisplayBuffer": false
-  },
-  "physicsSettings": {
-    "inheritPhysicsSettings": false,
-    "PhysicsWorld": false,
-    "PhysicsWorldGravityX": 0,
-    "PhysicsWorldGravityY": 10,
-    "PhysicsWorldPixToMetres": 0.1
-  },
-  "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy"
-  },
-  "resourceType": "GMRoom",
-  "resourceVersion": "1.0",
-  "name": "rm_cave2a"
+  "volume":1.0,
 }
