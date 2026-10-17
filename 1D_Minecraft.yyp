@@ -1,0 +1,1156 @@
+{
+  "resources": [
+    {
+      "id": {
+        "name": "sound",
+        "path": "scripts/sound/sound.yy"
+      },
+      "order": 0
+    },
+    {
+      "id": {
+        "name": "snd_porkchop",
+        "path": "sounds/snd_porkchop/snd_porkchop.yy"
+      },
+      "order": 0
+    },
+    {
+      "id": {
+        "name": "obj_iron_block",
+        "path": "objects/obj_iron_block/obj_iron_block.yy"
+      },
+      "order": 0
+    },
+    {
+      "id": {
+        "name": "rm_cave1c",
+        "path": "rooms/rm_cave1c/rm_cave1c.yy"
+      },
+      "order": 0
+    },
+    {
+      "id": {
+        "name": "spr_creeper_mask",
+        "path": "sprites/spr_creeper_mask/spr_creeper_mask.yy"
+      },
+      "order": 0
+    },
+    {
+      "id": {
+        "name": "snd_player_walk",
+        "path": "sounds/snd_player_walk/snd_player_walk.yy"
+      },
+      "order": 1
+    },
+    {
+      "id": {
+        "name": "obj_tree_creator",
+        "path": "objects/obj_tree_creator/obj_tree_creator.yy"
+      },
+      "order": 1
+    },
+    {
+      "id": {
+        "name": "rm_cave0c",
+        "path": "rooms/rm_cave0c/rm_cave0c.yy"
+      },
+      "order": 1
+    },
+    {
+      "id": {
+        "name": "spr_endesga",
+        "path": "sprites/spr_endesga/spr_endesga.yy"
+      },
+      "order": 1
+    },
+    {
+      "id": {
+        "name": "snd_cave_sound1",
+        "path": "sounds/snd_cave_sound1/snd_cave_sound1.yy"
+      },
+      "order": 2
+    },
+    {
+      "id": {
+        "name": "obj_game",
+        "path": "objects/obj_game/obj_game.yy"
+      },
+      "order": 2
+    },
+    {
+      "id": {
+        "name": "rm_cave1a",
+        "path": "rooms/rm_cave1a/rm_cave1a.yy"
+      },
+      "order": 2
+    },
+    {
+      "id": {
+        "name": "spr_placing_ghost",
+        "path": "sprites/spr_placing_ghost/spr_placing_ghost.yy"
+      },
+      "order": 2
+    },
+    {
+      "id": {
+        "name": "snd_end_crystal_broken",
+        "path": "sounds/snd_end_crystal_broken/snd_end_crystal_broken.yy"
+      },
+      "order": 3
+    },
+    {
+      "id": {
+        "name": "obj_strike_fx",
+        "path": "objects/obj_strike_fx/obj_strike_fx.yy"
+      },
+      "order": 3
+    },
+    {
+      "id": {
+        "name": "rm_cave0a",
+        "path": "rooms/rm_cave0a/rm_cave0a.yy"
+      },
+      "order": 3
+    },
+    {
+      "id": {
+        "name": "spr_item",
+        "path": "sprites/spr_item/spr_item.yy"
+      },
+      "order": 3
+    },
+    {
+      "id": {
+        "name": "snd_ender_dragon_roar",
+        "path": "sounds/snd_ender_dragon_roar/snd_ender_dragon_roar.yy"
+      },
+      "order": 4
+    },
+    {
+      "id": {
+        "name": "obj_leaves_block",
+        "path": "objects/obj_leaves_block/obj_leaves_block.yy"
+      },
+      "order": 4
+    },
+    {
+      "id": {
+        "name": "rm_title",
+        "path": "rooms/rm_title/rm_title.yy"
+      },
+      "order": 4
+    },
+    {
+      "id": {
+        "name": "spr_wool_block",
+        "path": "sprites/spr_wool_block/spr_wool_block.yy"
+      },
+      "order": 4
+    },
+    {
+      "id": {
+        "name": "snd_hit_player",
+        "path": "sounds/snd_hit_player/snd_hit_player.yy"
+      },
+      "order": 5
+    },
+    {
+      "id": {
+        "name": "obj_pig",
+        "path": "objects/obj_pig/obj_pig.yy"
+      },
+      "order": 5
+    },
+    {
+      "id": {
+        "name": "rm_cave0d",
+        "path": "rooms/rm_cave0d/rm_cave0d.yy"
+      },
+      "order": 5
+    },
+    {
+      "id": {
+        "name": "spr_strike_fx",
+        "path": "sprites/spr_strike_fx/spr_strike_fx.yy"
+      },
+      "order": 5
+    },
+    {
+      "id": {
+        "name": "snd_leaves_mining",
+        "path": "sounds/snd_leaves_mining/snd_leaves_mining.yy"
+      },
+      "order": 6
+    },
+    {
+      "id": {
+        "name": "obj_win",
+        "path": "objects/obj_win/obj_win.yy"
+      },
+      "order": 6
+    },
+    {
+      "id": {
+        "name": "rm_game",
+        "path": "rooms/rm_game/rm_game.yy"
+      },
+      "order": 6
+    },
+    {
+      "id": {
+        "name": "spr_endbg",
+        "path": "sprites/spr_endbg/spr_endbg.yy"
+      },
+      "order": 6
+    },
+    {
+      "id": {
+        "name": "snd_ender_dragon_flap",
+        "path": "sounds/snd_ender_dragon_flap/snd_ender_dragon_flap.yy"
+      },
+      "order": 7
+    },
+    {
+      "id": {
+        "name": "obj_block_broke",
+        "path": "objects/obj_block_broke/obj_block_broke.yy"
+      },
+      "order": 7
+    },
+    {
+      "id": {
+        "name": "rm_end",
+        "path": "rooms/rm_end/rm_end.yy"
+      },
+      "order": 7
+    },
+    {
+      "id": {
+        "name": "spr_porkchop",
+        "path": "sprites/spr_porkchop/spr_porkchop.yy"
+      },
+      "order": 7
+    },
+    {
+      "id": {
+        "name": "snd_win",
+        "path": "sounds/snd_win/snd_win.yy"
+      },
+      "order": 8
+    },
+    {
+      "id": {
+        "name": "obj_stone_block",
+        "path": "objects/obj_stone_block/obj_stone_block.yy"
+      },
+      "order": 8
+    },
+    {
+      "id": {
+        "name": "rm_cave1b",
+        "path": "rooms/rm_cave1b/rm_cave1b.yy"
+      },
+      "order": 8
+    },
+    {
+      "id": {
+        "name": "spr_game_over",
+        "path": "sprites/spr_game_over/spr_game_over.yy"
+      },
+      "order": 8
+    },
+    {
+      "id": {
+        "name": "snd_stone_mining",
+        "path": "sounds/snd_stone_mining/snd_stone_mining.yy"
+      },
+      "order": 9
+    },
+    {
+      "id": {
+        "name": "obj_skeleton_arrow",
+        "path": "objects/obj_skeleton_arrow/obj_skeleton_arrow.yy"
+      },
+      "order": 9
+    },
+    {
+      "id": {
+        "name": "rm_win",
+        "path": "rooms/rm_win/rm_win.yy"
+      },
+      "order": 9
+    },
+    {
+      "id": {
+        "name": "spr_block_broke",
+        "path": "sprites/spr_block_broke/spr_block_broke.yy"
+      },
+      "order": 9
+    },
+    {
+      "id": {
+        "name": "obj_world_generator",
+        "path": "objects/obj_world_generator/obj_world_generator.yy"
+      },
+      "order": 10
+    },
+    {
+      "id": {
+        "name": "snd_wool_broken",
+        "path": "sounds/snd_wool_broken/snd_wool_broken.yy"
+      },
+      "order": 10
+    },
+    {
+      "id": {
+        "name": "rm_cave0b",
+        "path": "rooms/rm_cave0b/rm_cave0b.yy"
+      },
+      "order": 10
+    },
+    {
+      "id": {
+        "name": "spr_ender_dragon",
+        "path": "sprites/spr_ender_dragon/spr_ender_dragon.yy"
+      },
+      "order": 10
+    },
+    {
+      "id": {
+        "name": "obj_ender_dragon",
+        "path": "objects/obj_ender_dragon/obj_ender_dragon.yy"
+      },
+      "order": 11
+    },
+    {
+      "id": {
+        "name": "snd_explosion",
+        "path": "sounds/snd_explosion/snd_explosion.yy"
+      },
+      "order": 11
+    },
+    {
+      "id": {
+        "name": "rm_cave2b",
+        "path": "rooms/rm_cave2b/rm_cave2b.yy"
+      },
+      "order": 11
+    },
+    {
+      "id": {
+        "name": "spr_obsidian",
+        "path": "sprites/spr_obsidian/spr_obsidian.yy"
+      },
+      "order": 11
+    },
+    {
+      "id": {
+        "name": "obj_cave_enemy_generator",
+        "path": "objects/obj_cave_enemy_generator/obj_cave_enemy_generator.yy"
+      },
+      "order": 12
+    },
+    {
+      "id": {
+        "name": "snd_cave_sound2",
+        "path": "sounds/snd_cave_sound2/snd_cave_sound2.yy"
+      },
+      "order": 12
+    },
+    {
+      "id": {
+        "name": "rm_cave2a",
+        "path": "rooms/rm_cave2a/rm_cave2a.yy"
+      },
+      "order": 12
+    },
+    {
+      "id": {
+        "name": "spr_mining_animation",
+        "path": "sprites/spr_mining_animation/spr_mining_animation.yy"
+      },
+      "order": 12
+    },
+    {
+      "id": {
+        "name": "obj_cave_down",
+        "path": "objects/obj_cave_down/obj_cave_down.yy"
+      },
+      "order": 13
+    },
+    {
+      "id": {
+        "name": "snd_delugedrop",
+        "path": "sounds/snd_delugedrop/snd_delugedrop.yy"
+      },
+      "order": 13
+    },
+    {
+      "id": {
+        "name": "rm_game_over",
+        "path": "rooms/rm_game_over/rm_game_over.yy"
+      },
+      "order": 13
+    },
+    {
+      "id": {
+        "name": "spr_enderman",
+        "path": "sprites/spr_enderman/spr_enderman.yy"
+      },
+      "order": 13
+    },
+    {
+      "id": {
+        "name": "snd_dirt_mining",
+        "path": "sounds/snd_dirt_mining/snd_dirt_mining.yy"
+      },
+      "order": 14
+    },
+    {
+      "id": {
+        "name": "obj_wool_block",
+        "path": "objects/obj_wool_block/obj_wool_block.yy"
+      },
+      "order": 14
+    },
+    {
+      "id": {
+        "name": "rm_sand_temple",
+        "path": "rooms/rm_sand_temple/rm_sand_temple.yy"
+      },
+      "order": 14
+    },
+    {
+      "id": {
+        "name": "spr_diamond_block",
+        "path": "sprites/spr_diamond_block/spr_diamond_block.yy"
+      },
+      "order": 14
+    },
+    {
+      "id": {
+        "name": "snd_leaves_broken",
+        "path": "sounds/snd_leaves_broken/snd_leaves_broken.yy"
+      },
+      "order": 15
+    },
+    {
+      "id": {
+        "name": "obj_cave_up",
+        "path": "objects/obj_cave_up/obj_cave_up.yy"
+      },
+      "order": 15
+    },
+    {
+      "id": {
+        "name": "rm_overworld",
+        "path": "rooms/rm_overworld/rm_overworld.yy"
+      },
+      "order": 15
+    },
+    {
+      "id": {
+        "name": "spr_bows",
+        "path": "sprites/spr_bows/spr_bows.yy"
+      },
+      "order": 15
+    },
+    {
+      "id": {
+        "name": "snd_dirt_broken",
+        "path": "sounds/snd_dirt_broken/snd_dirt_broken.yy"
+      },
+      "order": 16
+    },
+    {
+      "id": {
+        "name": "obj_wood_block",
+        "path": "objects/obj_wood_block/obj_wood_block.yy"
+      },
+      "order": 16
+    },
+    {
+      "id": {
+        "name": "spr_pig",
+        "path": "sprites/spr_pig/spr_pig.yy"
+      },
+      "order": 16
+    },
+    {
+      "id": {
+        "name": "snd_wood_broken",
+        "path": "sounds/snd_wood_broken/snd_wood_broken.yy"
+      },
+      "order": 17
+    },
+    {
+      "id": {
+        "name": "obj_creeper",
+        "path": "objects/obj_creeper/obj_creeper.yy"
+      },
+      "order": 17
+    },
+    {
+      "id": {
+        "name": "spr_game_over_button",
+        "path": "sprites/spr_game_over_button/spr_game_over_button.yy"
+      },
+      "order": 17
+    },
+    {
+      "id": {
+        "name": "snd_ascend",
+        "path": "sounds/snd_ascend/snd_ascend.yy"
+      },
+      "order": 18
+    },
+    {
+      "id": {
+        "name": "obj_item",
+        "path": "objects/obj_item/obj_item.yy"
+      },
+      "order": 18
+    },
+    {
+      "id": {
+        "name": "spr_skeleton",
+        "path": "sprites/spr_skeleton/spr_skeleton.yy"
+      },
+      "order": 18
+    },
+    {
+      "id": {
+        "name": "snd_portal",
+        "path": "sounds/snd_portal/snd_portal.yy"
+      },
+      "order": 19
+    },
+    {
+      "id": {
+        "name": "obj_game_over_button",
+        "path": "objects/obj_game_over_button/obj_game_over_button.yy"
+      },
+      "order": 19
+    },
+    {
+      "id": {
+        "name": "spr_inventory_menu",
+        "path": "sprites/spr_inventory_menu/spr_inventory_menu.yy"
+      },
+      "order": 19
+    },
+    {
+      "id": {
+        "name": "snd_wool_mining",
+        "path": "sounds/snd_wool_mining/snd_wool_mining.yy"
+      },
+      "order": 20
+    },
+    {
+      "id": {
+        "name": "obj_spider",
+        "path": "objects/obj_spider/obj_spider.yy"
+      },
+      "order": 20
+    },
+    {
+      "id": {
+        "name": "spr_zombie",
+        "path": "sprites/spr_zombie/spr_zombie.yy"
+      },
+      "order": 20
+    },
+    {
+      "id": {
+        "name": "snd_collect",
+        "path": "sounds/snd_collect/snd_collect.yy"
+      },
+      "order": 21
+    },
+    {
+      "id": {
+        "name": "obj_end_portal",
+        "path": "objects/obj_end_portal/obj_end_portal.yy"
+      },
+      "order": 21
+    },
+    {
+      "id": {
+        "name": "spr_iron_block",
+        "path": "sprites/spr_iron_block/spr_iron_block.yy"
+      },
+      "order": 21
+    },
+    {
+      "id": {
+        "name": "snd_enderman_warp",
+        "path": "sounds/snd_enderman_warp/snd_enderman_warp.yy"
+      },
+      "order": 22
+    },
+    {
+      "id": {
+        "name": "obj_diamond_block",
+        "path": "objects/obj_diamond_block/obj_diamond_block.yy"
+      },
+      "order": 22
+    },
+    {
+      "id": {
+        "name": "spr_player",
+        "path": "sprites/spr_player/spr_player.yy"
+      },
+      "order": 22
+    },
+    {
+      "id": {
+        "name": "snd_pig_oink",
+        "path": "sounds/snd_pig_oink/snd_pig_oink.yy"
+      },
+      "order": 23
+    },
+    {
+      "id": {
+        "name": "obj_arrow",
+        "path": "objects/obj_arrow/obj_arrow.yy"
+      },
+      "order": 23
+    },
+    {
+      "id": {
+        "name": "spr_arrow",
+        "path": "sprites/spr_arrow/spr_arrow.yy"
+      },
+      "order": 23
+    },
+    {
+      "id": {
+        "name": "snd_enemy_hit",
+        "path": "sounds/snd_enemy_hit/snd_enemy_hit.yy"
+      },
+      "order": 24
+    },
+    {
+      "id": {
+        "name": "obj_sand_temple",
+        "path": "objects/obj_sand_temple/obj_sand_temple.yy"
+      },
+      "order": 24
+    },
+    {
+      "id": {
+        "name": "spr_leaves_block",
+        "path": "sprites/spr_leaves_block/spr_leaves_block.yy"
+      },
+      "order": 24
+    },
+    {
+      "id": {
+        "name": "snd_stone_broken",
+        "path": "sounds/snd_stone_broken/snd_stone_broken.yy"
+      },
+      "order": 25
+    },
+    {
+      "id": {
+        "name": "obj_dirt_creator",
+        "path": "objects/obj_dirt_creator/obj_dirt_creator.yy"
+      },
+      "order": 25
+    },
+    {
+      "id": {
+        "name": "spr_title",
+        "path": "sprites/spr_title/spr_title.yy"
+      },
+      "order": 25
+    },
+    {
+      "id": {
+        "name": "snd_descend",
+        "path": "sounds/snd_descend/snd_descend.yy"
+      },
+      "order": 26
+    },
+    {
+      "id": {
+        "name": "obj_explosion",
+        "path": "objects/obj_explosion/obj_explosion.yy"
+      },
+      "order": 26
+    },
+    {
+      "id": {
+        "name": "spr_result_items",
+        "path": "sprites/spr_result_items/spr_result_items.yy"
+      },
+      "order": 26
+    },
+    {
+      "id": {
+        "name": "snd_button",
+        "path": "sounds/snd_button/snd_button.yy"
+      },
+      "order": 27
+    },
+    {
+      "id": {
+        "name": "obj_cave_generator",
+        "path": "objects/obj_cave_generator/obj_cave_generator.yy"
+      },
+      "order": 27
+    },
+    {
+      "id": {
+        "name": "spr_sand_temple",
+        "path": "sprites/spr_sand_temple/spr_sand_temple.yy"
+      },
+      "order": 27
+    },
+    {
+      "id": {
+        "name": "snd_wood_mining",
+        "path": "sounds/snd_wood_mining/snd_wood_mining.yy"
+      },
+      "order": 28
+    },
+    {
+      "id": {
+        "name": "obj_player",
+        "path": "objects/obj_player/obj_player.yy"
+      },
+      "order": 28
+    },
+    {
+      "id": {
+        "name": "spr_end_crystal",
+        "path": "sprites/spr_end_crystal/spr_end_crystal.yy"
+      },
+      "order": 28
+    },
+    {
+      "id": {
+        "name": "snd_portal_enter",
+        "path": "sounds/snd_portal_enter/snd_portal_enter.yy"
+      },
+      "order": 29
+    },
+    {
+      "id": {
+        "name": "obj_obsidian",
+        "path": "objects/obj_obsidian/obj_obsidian.yy"
+      },
+      "order": 29
+    },
+    {
+      "id": {
+        "name": "spr_cave_entrance",
+        "path": "sprites/spr_cave_entrance/spr_cave_entrance.yy"
+      },
+      "order": 29
+    },
+    {
+      "id": {
+        "name": "snd_arrow_hit",
+        "path": "sounds/snd_arrow_hit/snd_arrow_hit.yy"
+      },
+      "order": 30
+    },
+    {
+      "id": {
+        "name": "obj_end_crystal",
+        "path": "objects/obj_end_crystal/obj_end_crystal.yy"
+      },
+      "order": 30
+    },
+    {
+      "id": {
+        "name": "spr_swords",
+        "path": "sprites/spr_swords/spr_swords.yy"
+      },
+      "order": 30
+    },
+    {
+      "id": {
+        "name": "snd_game_over",
+        "path": "sounds/snd_game_over/snd_game_over.yy"
+      },
+      "order": 31
+    },
+    {
+      "id": {
+        "name": "obj_cave_entrance",
+        "path": "objects/obj_cave_entrance/obj_cave_entrance.yy"
+      },
+      "order": 31
+    },
+    {
+      "id": {
+        "name": "spr_explosion",
+        "path": "sprites/spr_explosion/spr_explosion.yy"
+      },
+      "order": 31
+    },
+    {
+      "id": {
+        "name": "snd_creeper_hiss",
+        "path": "sounds/snd_creeper_hiss/snd_creeper_hiss.yy"
+      },
+      "order": 32
+    },
+    {
+      "id": {
+        "name": "obj_enemy",
+        "path": "objects/obj_enemy/obj_enemy.yy"
+      },
+      "order": 32
+    },
+    {
+      "id": {
+        "name": "spr_pickaxes",
+        "path": "sprites/spr_pickaxes/spr_pickaxes.yy"
+      },
+      "order": 32
+    },
+    {
+      "id": {
+        "name": "snd_click",
+        "path": "sounds/snd_click/snd_click.yy"
+      },
+      "order": 33
+    },
+    {
+      "id": {
+        "name": "obj_placing_ghost",
+        "path": "objects/obj_placing_ghost/obj_placing_ghost.yy"
+      },
+      "order": 33
+    },
+    {
+      "id": {
+        "name": "spr_cave_down",
+        "path": "sprites/spr_cave_down/spr_cave_down.yy"
+      },
+      "order": 33
+    },
+    {
+      "id": {
+        "name": "snd_arrow_fire",
+        "path": "sounds/snd_arrow_fire/snd_arrow_fire.yy"
+      },
+      "order": 34
+    },
+    {
+      "id": {
+        "name": "obj_porkchop",
+        "path": "objects/obj_porkchop/obj_porkchop.yy"
+      },
+      "order": 34
+    },
+    {
+      "id": {
+        "name": "spr_wood_block",
+        "path": "sprites/spr_wood_block/spr_wood_block.yy"
+      },
+      "order": 34
+    },
+    {
+      "id": {
+        "name": "obj_block",
+        "path": "objects/obj_block/obj_block.yy"
+      },
+      "order": 35
+    },
+    {
+      "id": {
+        "name": "spr_bedrock_block",
+        "path": "sprites/spr_bedrock_block/spr_bedrock_block.yy"
+      },
+      "order": 35
+    },
+    {
+      "id": {
+        "name": "obj_skeleton",
+        "path": "objects/obj_skeleton/obj_skeleton.yy"
+      },
+      "order": 36
+    },
+    {
+      "id": {
+        "name": "spr_stone_block",
+        "path": "sprites/spr_stone_block/spr_stone_block.yy"
+      },
+      "order": 36
+    },
+    {
+      "id": {
+        "name": "obj_zombie",
+        "path": "objects/obj_zombie/obj_zombie.yy"
+      },
+      "order": 37
+    },
+    {
+      "id": {
+        "name": "spr_dirt_block",
+        "path": "sprites/spr_dirt_block/spr_dirt_block.yy"
+      },
+      "order": 37
+    },
+    {
+      "id": {
+        "name": "obj_enderman",
+        "path": "objects/obj_enderman/obj_enderman.yy"
+      },
+      "order": 38
+    },
+    {
+      "id": {
+        "name": "spr_creeper",
+        "path": "sprites/spr_creeper/spr_creeper.yy"
+      },
+      "order": 38
+    },
+    {
+      "id": {
+        "name": "obj_grass_block",
+        "path": "objects/obj_grass_block/obj_grass_block.yy"
+      },
+      "order": 39
+    },
+    {
+      "id": {
+        "name": "spr_spider",
+        "path": "sprites/spr_spider/spr_spider.yy"
+      },
+      "order": 39
+    },
+    {
+      "id": {
+        "name": "obj_dirt_block",
+        "path": "objects/obj_dirt_block/obj_dirt_block.yy"
+      },
+      "order": 40
+    },
+    {
+      "id": {
+        "name": "spr_dot",
+        "path": "sprites/spr_dot/spr_dot.yy"
+      },
+      "order": 40
+    },
+    {
+      "id": {
+        "name": "spr_end_portal",
+        "path": "sprites/spr_end_portal/spr_end_portal.yy"
+      },
+      "order": 41
+    },
+    {
+      "id": {
+        "name": "obj_bedrock_block",
+        "path": "objects/obj_bedrock_block/obj_bedrock_block.yy"
+      },
+      "order": 41
+    },
+    {
+      "id": {
+        "name": "spr_cave_up",
+        "path": "sprites/spr_cave_up/spr_cave_up.yy"
+      },
+      "order": 42
+    },
+    {
+      "id": {
+        "name": "spr_grass_block",
+        "path": "sprites/spr_grass_block/spr_grass_block.yy"
+      },
+      "order": 43
+    }
+  ],
+  "Options": [
+    {
+      "name": "HTML5",
+      "path": "options/html5/options_html5.yy"
+    },
+    {
+      "name": "Main",
+      "path": "options/main/options_main.yy"
+    },
+    {
+      "name": "Windows",
+      "path": "options/windows/options_windows.yy"
+    }
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "RoomOrderNodes": [
+    {
+      "roomId": {
+        "name": "rm_game",
+        "path": "rooms/rm_game/rm_game.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_title",
+        "path": "rooms/rm_title/rm_title.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_overworld",
+        "path": "rooms/rm_overworld/rm_overworld.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_end",
+        "path": "rooms/rm_end/rm_end.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_cave0d",
+        "path": "rooms/rm_cave0d/rm_cave0d.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_game_over",
+        "path": "rooms/rm_game_over/rm_game_over.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_cave0a",
+        "path": "rooms/rm_cave0a/rm_cave0a.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_cave0b",
+        "path": "rooms/rm_cave0b/rm_cave0b.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_cave0c",
+        "path": "rooms/rm_cave0c/rm_cave0c.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_cave1b",
+        "path": "rooms/rm_cave1b/rm_cave1b.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_cave1c",
+        "path": "rooms/rm_cave1c/rm_cave1c.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_cave1a",
+        "path": "rooms/rm_cave1a/rm_cave1a.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_cave2b",
+        "path": "rooms/rm_cave2b/rm_cave2b.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_cave2a",
+        "path": "rooms/rm_cave2a/rm_cave2a.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_win",
+        "path": "rooms/rm_win/rm_win.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_sand_temple",
+        "path": "rooms/rm_sand_temple/rm_sand_temple.yy"
+      }
+    }
+  ],
+  "Folders": [
+    {
+      "folderPath": "folders/Sprites.yy",
+      "order": 1,
+      "resourceType": "GMFolder",
+      "resourceVersion": "1.0",
+      "name": "Sprites"
+    },
+    {
+      "folderPath": "folders/Sounds.yy",
+      "order": 3,
+      "resourceType": "GMFolder",
+      "resourceVersion": "1.0",
+      "name": "Sounds"
+    },
+    {
+      "folderPath": "folders/Scripts.yy",
+      "order": 5,
+      "resourceType": "GMFolder",
+      "resourceVersion": "1.0",
+      "name": "Scripts"
+    },
+    {
+      "folderPath": "folders/Objects.yy",
+      "order": 9,
+      "resourceType": "GMFolder",
+      "resourceVersion": "1.0",
+      "name": "Objects"
+    },
+    {
+      "folderPath": "folders/Rooms.yy",
+      "order": 10,
+      "resourceType": "GMFolder",
+      "resourceVersion": "1.0",
+      "name": "Rooms"
+    }
+  ],
+  "AudioGroups": [
+    {
+      "targets": -1,
+      "resourceType": "GMAudioGroup",
+      "resourceVersion": "1.3",
+      "name": "audiogroup_default"
+    }
+  ],
+  "TextureGroups": [
+    {
+      "isScaled": true,
+      "compressFormat": "png",
+      "loadType": "default",
+      "directory": "",
+      "autocrop": true,
+      "border": 2,
+      "mipsToGenerate": 0,
+      "groupParent": null,
+      "targets": -1,
+      "resourceType": "GMTextureGroup",
+      "resourceVersion": "1.3",
+      "name": "Default"
+    }
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2.3.2.0"
+  },
+  "configs": {
+    "children": [],
+    "name": "Default"
+  },
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "_1D_Minecraft"
+}
