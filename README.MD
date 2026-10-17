@@ -9,3 +9,4 @@ I have successfully built it with GameMaker 2022.5, I don't guarantee it will wo
 
 All the code + assets in this repo belong to DeludgeDrop, I just decompiled the game.
 
+I recommend zooming in to 500% on the web port to be able to play.
